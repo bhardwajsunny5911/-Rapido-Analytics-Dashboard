@@ -129,10 +129,14 @@ The dashboard is built using a simulated Rapido dataset containing:
 
 > Add screenshots of:
 >
-> - 🏠 Home Dashboard
-> - 🏍️ Bike Analytics
-> - 🚗 Cab Analytics
-> - 🛺 Auto Analytics
+> - <img width="959" height="541" alt="Screenshot 2026-08-04 133906" src="https://github.com/user-attachments/assets/88e2a448-b099-4c3e-8b95-01d82bf06d74" />
+
+> - <img width="1130" height="664" alt="Screenshot 2026-08-04 133959" src="https://github.com/user-attachments/assets/0ae7c7d1-a5e6-43ac-8ebd-3c253bff3f46" />
+
+> - <img width="1124" height="661" alt="Screenshot 2026-08-04 134036" src="https://github.com/user-attachments/assets/58c1ed35-8931-4983-b617-284167a77048" />
+
+> - <img width="1118" height="661" alt="Screenshot 2026-08-04 134057" src="https://github.com/user-attachments/assets/1ef54730-cfe9-4163-b555-9e9754eef532" />
+
 
 ---
 

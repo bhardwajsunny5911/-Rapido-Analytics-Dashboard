@@ -127,7 +127,7 @@ The dashboard is built using a simulated Rapido dataset containing:
 
 ## 📷 Dashboard Preview
 >
-> - <img width="959" height="541" alt="Screenshot 2026-08-04 133906" src="https://github.com/user-attachments/assets/88e2a448-b099-4c3e-8b95-01d82bf06d74" />
+> - <img width="955" height="539" alt="Screenshot 2026-08-04 135346" src="https://github.com/user-attachments/assets/d98b926f-4f77-42fc-a2e1-b9c0103be5bc" />
 
 > - <img width="1130" height="664" alt="Screenshot 2026-08-04 133959" src="https://github.com/user-attachments/assets/0ae7c7d1-a5e6-43ac-8ebd-3c253bff3f46" />
 
